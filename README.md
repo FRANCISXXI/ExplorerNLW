@@ -1,16 +1,15 @@
 # NLW eSports 
 
-! [Preview](./.github/Preview.png)
+![Preview](./.github/Preview.png)
 
 >Trilha Explorer
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar] {
-    https://francisxxi.github.io/ExplorerNLW
-}
+🔗[Clique aqui para acessar](https://francisxxi.github.io/ExplorerNLW)
 
-## Tecnologias
+
+## 💻Tecnologias
 
 - HTML
 - CSS
@@ -22,4 +21,4 @@ Foi aprendido algumas das várias tags que existem no HTML, e algumas estilizaç
 
 ## Contato
 
-lucasfrancelino63@gmail.com
+📧lucasfrancelino63@gmail.com
